@@ -1,0 +1,21 @@
+{
+  "name": "modulo-matematica-ts",
+  "version": "1.0.0",
+  "description": "Módulo TypeScript com operações matemáticas básicas",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "keywords": [
+    "typescript",
+    "matematica",
+    "operacoes"
+  ],
+  "author": "Seu Nome",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
+}
